@@ -10,7 +10,7 @@ pibooth-Onedrive
 ``pibooth-Onedrive`` is a plugin for the `pibooth <https://github.com/pibooth/pibooth>`_
 application.
 
-This plugin adds the photo upload to a `Google Photos <https://photos.google.com/>`_.
+This plugin adds the photo upload to a `Google Photos <https://onedrive.live.com/about/fr-fr/signin/>`_.
 It requires an internet connection to work
 
 Install
@@ -18,7 +18,7 @@ Install
 
 ::
 
-    $ pip3 install pibooth-google-photo
+    $ pip3 install pibooth-OneDrive
 
 
 Obtaining a Google Photos API key
