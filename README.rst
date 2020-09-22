@@ -1,11 +1,13 @@
+Ongoing, do not use it from now
+
 
 ====================
-pibooth-google-photo
+pibooth-Onedrive
 ====================
 
 |PythonVersions| |PypiPackage| |Downloads|
 
-``pibooth-google-photo`` is a plugin for the `pibooth <https://github.com/pibooth/pibooth>`_
+``pibooth-Onedrive`` is a plugin for the `pibooth <https://github.com/pibooth/pibooth>`_
 application.
 
 This plugin adds the photo upload to a `Google Photos <https://photos.google.com/>`_.
